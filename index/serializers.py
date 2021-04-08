@@ -1,0 +1,1 @@
+from .index_serializers.register_serializers import RegisterationSerializer
